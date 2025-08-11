@@ -92,12 +92,3 @@ run_deep_dream(deep_dream_model, image, 1, 0.001)
 ## 🏷 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-I can also **add a "How to Run in Google Colab" section** so people can just open your notebook and run it with the dataset — that will make your repo more beginner-friendly.  
-
-Do you want me to include that? That way, people won’t need to manually set paths.
-```
